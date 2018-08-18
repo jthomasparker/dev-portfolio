@@ -1,0 +1,24 @@
+{
+  "name": "joshparker-dev",
+  "version": "1.0.0",
+  "description": "Dev portfolio to experiment with different designs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jthomasparker/dev-portfolio.git"
+  },
+  "author": "JoshParker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jthomasparker/dev-portfolio/issues"
+  },
+  "homepage": "https://github.com/jthomasparker/dev-portfolio#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
